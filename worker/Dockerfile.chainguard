@@ -1,0 +1,2 @@
+FROM cgr.dev/chainguard/php-fpm:8.2.34-r4
+COPY public/ /var/www/html/
